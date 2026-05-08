@@ -1,0 +1,7 @@
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\bin\Debug\Centro_pokemon.exe.config
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\bin\Debug\Centro_pokemon.exe
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\bin\Debug\Centro_pokemon.pdb
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\obj\Debug\Centro_pokemon.csproj.AssemblyReference.cache
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\obj\Debug\Centro_pokemon.csproj.CoreCompileInputs.cache
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\obj\Debug\Centro_pokemon.exe
+C:\Users\daniel.feria\Documents\Centro_pokemon\Centro_pokemon\Centro_pokemon\obj\Debug\Centro_pokemon.pdb
